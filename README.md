@@ -1,2 +1,2 @@
-# put-k-vrachu
-kvest-igra
+Игра создання на Unity
+для Hack-the-ICE 3.0
